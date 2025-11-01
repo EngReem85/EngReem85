@@ -44,6 +44,16 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
 </p>
 
 ---
+## 📊 GitHub Stats
+![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngReem85&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngReem85&layout=compact&theme=tokyonight)  
+
+---
+
+## 🎯 Current Focus / Goals
+- Deepening expertise in AI, Machine Learning, Deep Learning, and Computer Vision  
+- Exploring Embedded Systems applications and IoT projects  
+- Enhancing data analysis skills and technical training capabilities  
 
 
 
