@@ -1,5 +1,5 @@
 <!-- Header -->
-<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhdXZpajl5d3U0YThwa2w3ZjZqZ3I3bHR5Y3JlODFobmh6bWJ0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tPplGWjN0xLybiU/giphy.gif" width="250"/>
 
 # 🪽 Hi, I'm **Eng. Reem Algethami**  
 
@@ -31,28 +31,28 @@ Constantly exploring the intersection between **innovation and imagination**, I 
 ---
 
 ## 🛠️ Skills & Technologies
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55" style="filter: sepia(70%) hue-rotate(320deg) saturate(200%) brightness(110%);"/>
+<p align="center" style="background-color:#f8e1d4; border-radius:10px; padding:15px;">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" height="55"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" height="55"/>
 </p>
 
 ---
 
 ## 📊 GitHub Insights
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=rose_pine" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=rose_pine" height="160" />
+<p align="center" style="background-color:#f8e1d4; border-radius:10px; padding:15px;">
+  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
 </p>
 
 ---
@@ -60,15 +60,15 @@ Constantly exploring the intersection between **innovation and imagination**, I 
 ## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/reem-algethami-245800316" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" title="LinkedIn" style="filter: sepia(80%) hue-rotate(330deg) saturate(500%) brightness(105%);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26" title="LinkedIn" style="filter: sepia(90%) hue-rotate(325deg) saturate(400%) brightness(105%);" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="https://github.com/EngReemAlgethami" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="28" title="GitHub" style="filter: sepia(80%) hue-rotate(330deg) saturate(500%) brightness(105%);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="26" title="GitHub" style="filter: sepia(90%) hue-rotate(325deg) saturate(400%) brightness(105%);" />
   </a>
-  &nbsp;&nbsp;&nbsp;
+  &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="28" title="Email" style="filter: sepia(80%) hue-rotate(330deg) saturate(500%) brightness(105%);" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="26" title="Email" style="filter: sepia(90%) hue-rotate(325deg) saturate(400%) brightness(105%);" />
   </a>
 </p>
 
