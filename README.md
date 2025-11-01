@@ -1,7 +1,7 @@
 <!-- Header -->
-<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhdXZpajl5d3U0YThwa2w3ZjZqZ3I3bHR5Y3JlODFobmh6bWJ0YiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/26tPplGWjN0xLybiU/giphy.gif" width="250"/>
+<img align="right" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhdXZpajl5d3U0YThwa2w3ZjZqZ/giphy.gif](https://tenor.com/bCNex.gif)" width="250"/>
 
-# 🪽 Hi, I'm **Eng. Reem Algethami**  
+#  Hi, I'm **Eng. Reem Algethami**  
 
 💻 **Computer Engineer | AI Innovator | Creative Visionary**  
 🧠 Specialized in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**  
@@ -12,7 +12,7 @@
 
 ## ✨ Favorite Quote
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=E7B2A5&center=true&vCenter=true&width=650&lines=“She+turns+data+into+dreams,+and+dreams+into+code.”;“Technology+becomes+art+when+it+understands+people.”;“RA+with+Wings+—+Where+Technology+Takes+Flight.”" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=E7B2A5&center=true&vCenter=true&width=650&lines=“She+turns+data+into+dreams,+and+dreams+into+code.”;“Technology+becomes+art+when+it+understands+people.”;“RA+with+Wings+—+Where+Technology+Takes+Flight.”" alt="555555" />
 </p>
 
 ---
@@ -51,8 +51,8 @@ Constantly exploring the intersection between **innovation and imagination**, I 
 
 ## 📊 GitHub Insights
 <p align="center" style="background-color:#f8e1d4; border-radius:10px; padding:15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api?username=EngReem85&show_icons=true&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngReem85&layout=compact&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
 </p>
 
 ---
