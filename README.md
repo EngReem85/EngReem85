@@ -1,5 +1,5 @@
 <!-- Header -->
-<img align="right" src="tenor.gif" width="200"/>
+<img align="right" src="tenor.gif" width="100"/>
 
 # **Eng. Reem Algethami**
 
@@ -9,13 +9,13 @@
 
 ---
 
-## 🪽 About Me  
+##  About Me🪽  
 I’m **Eng. Reem Algethami**, a **Computer Engineer** passionate about **Artificial Intelligence, Computer Vision, and Robotics**.  
 My journey is fueled by curiosity, creativity, and a deep desire to merge **logic with imagination**.  
-I believe technology should **inspire, empower, and feel alive** — not just function.  
+I believe technology should **inspire, empower, and feel alive**  not just function.  
 Through every project, I aim to create AI that learns, adapts, and makes a difference.  
 
-✨ *My mission: to engineer intelligent systems that connect technology with purpose.*  
+
 
 ---
 
@@ -45,14 +45,7 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
 
 ---
 
-## 🌟 Projects & Highlights  
-- 🚀 **OreScout Drone** – AI-powered self-learning drone using DQN + GANs for metal detection in desert environments.  
-- 🧩 **DFU Analyzer** – Deep Learning model for diabetic foot ulcer segmentation and risk assessment.  
-- 🌞 **EL-Inspect** – Computer Vision system for solar panel defect inspection using YOLOv8 + segmentation.  
-- 🦿 **Gait Insight** – Real-time video analysis for diabetic neuropathy and Charcot foot detection.  
-- 💡 Advocate for **Women in AI & STEM**, mentoring and inspiring future innovators.  
 
----
 
 ## 🌐 Connect with Me  
 <p align="center">
