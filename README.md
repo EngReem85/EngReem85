@@ -3,7 +3,7 @@
 
 
 
-<p align="left">
+<p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=Innovating+Tomorrow+with+Code.+Empowering+Visions.+Shaping+Realities." alt="Typing SVG" />
 
 </p>
