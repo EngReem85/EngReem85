@@ -1,97 +1,203 @@
-<!-- Elegant Header with Animated Wings -->
-<p align="center">
-  <img src="https://media.giphy.com/media/f9k1tV7HyORcngKF8J/giphy.gif" width="140"/>
-</p>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eng. Reem Algethami | RA with Wings</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #0e0e10;
+      color: #fff;
+      overflow-x: hidden;
+    }
 
-# 🪽 Hi, I'm **Eng. Reem Algethami**
+    header {
+      text-align: center;
+      padding: 100px 20px;
+      position: relative;
+    }
 
-💻 **Computer Engineer | AI Innovator | Visionary Creator**  
-🧠 Passionate about **Artificial Intelligence, Machine Learning, Deep Learning, Computer Vision, and Embedded Systems**  
-🌸 I merge **engineering precision** with **artistic creativity**, turning abstract ideas into smart realities  
-⚡ “RA with Wings — where technology learns to dream”  
+    header h1 {
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: #c7aefc;
+    }
 
----
+    header p {
+      font-size: 1.2rem;
+      color: #dcdcdc;
+      margin-top: 10px;
+    }
 
-## 🦋 About Me
-> *“I believe technology becomes art when it connects with emotion.”*  
-I’m a creative computer engineer who sees AI not only as code — but as a medium of imagination.  
-I love exploring how intelligent systems can sense, learn, and create beauty through data.
+    .wings {
+      position: absolute;
+      top: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 200px;
+      opacity: 0.2;
+      animation: flutter 5s ease-in-out infinite;
+    }
 
----
+    @keyframes flutter {
+      0%, 100% { transform: translateX(-50%) rotate(0deg); }
+      50% { transform: translateX(-50%) rotate(4deg); }
+    }
 
-## 🧠 Tech Stack & Expertise
-<p align="center">
+    section {
+      padding: 80px 10%;
+      text-align: center;
+    }
 
-🎯 **Programming & AI Frameworks**  
-<img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white"/>  
-<img src="https://img.shields.io/badge/TensorFlow-FF6F00?logo=tensorflow&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Keras-D00000?logo=keras&logoColor=white"/>  
-<img src="https://img.shields.io/badge/PyTorch-EE4C2C?logo=pytorch&logoColor=white"/>  
-<img src="https://img.shields.io/badge/scikit--learn-F7931E?logo=scikitlearn&logoColor=white"/>  
+    section h2 {
+      color: #c7aefc;
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
 
-🖼 **Computer Vision & Generative AI**  
-<img src="https://img.shields.io/badge/OpenCV-5C3EE8?logo=opencv&logoColor=white"/>  
-<img src="https://img.shields.io/badge/YOLOv8-00FFFF?logo=darkreader&logoColor=black"/>  
-<img src="https://img.shields.io/badge/Real--ESRGAN-FF1493?logo=ai&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GANs-9400D3?logo=deepmind&logoColor=white"/>  
-<img src="https://img.shields.io/badge/DQN-2E8B57?logo=reinforcementlearning&logoColor=white"/>  
+    .about p {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d8d8d8;
+      max-width: 800px;
+      margin: 0 auto;
+    }
 
-⚙️ **Embedded & Hardware**  
-<img src="https://img.shields.io/badge/Raspberry Pi-A22846?logo=raspberrypi&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Arduino-00979D?logo=arduino&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Pixhawk-6F42C1?logo=drone&logoColor=white"/>  
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 40px;
+    }
 
-📊 **Data Analysis & Visualization**  
-<img src="https://img.shields.io/badge/Pandas-150458?logo=pandas&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Numpy-013243?logo=numpy&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Power BI-F2C811?logo=powerbi&logoColor=white"/>  
+    .skill {
+      background: #1e1e22;
+      padding: 12px 25px;
+      border-radius: 25px;
+      border: 1px solid #c7aefc;
+      color: #c7aefc;
+      font-size: 0.95rem;
+      transition: all 0.3s ease;
+    }
 
-🧩 **Tools & Platforms**  
-<img src="https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white"/>  
-<img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Google Colab-F9AB00?logo=googlecolab&logoColor=white"/>  
-<img src="https://img.shields.io/badge/VS Code-007ACC?logo=visualstudiocode&logoColor=white"/>  
-<img src="https://img.shields.io/badge/Jupyter-F37626?logo=jupyter&logoColor=white"/>  
+    .skill:hover {
+      background: #c7aefc;
+      color: #0e0e10;
+    }
 
-</p>
+    .vision {
+      background: #151518;
+      padding: 80px 10%;
+    }
 
----
+    .vision-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
 
-## 💫 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=dracula" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=dracula" height="165"/>
-</p>
+    .vision-item {
+      background: #1d1d22;
+      padding: 30px;
+      border-radius: 15px;
+      border: 1px solid #c7aefc44;
+      transition: transform 0.3s ease;
+    }
 
----
+    .vision-item:hover {
+      transform: translateY(-8px);
+      border-color: #c7aefc;
+    }
 
-## 🎯 Current Focus
-- Building **AI-powered drones** for intelligent sensing and decision making  
-- Experimenting with **Generative Adversarial Networks (GANs)** and **Reinforcement Learning (DQN)**  
-- Designing lightweight **Embedded AI systems**  
-- Enhancing skills in **data optimization and AI training pipelines**  
+    .vision-item h3 {
+      color: #c7aefc;
+      margin-bottom: 10px;
+    }
 
----
+    footer {
+      text-align: center;
+      padding: 40px;
+      font-size: 0.9rem;
+      color: #aaa;
+      border-top: 1px solid #222;
+    }
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/reem-algethami-245800316" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Reem%20Algethami-0A66C2?logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://github.com/USERNAME" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-Eng.Reem--Algethami-181717?logo=github&logoColor=white"/>
-  </a>
-  <a href="mailto:your-email@example.com">
-    <img src="https://img.shields.io/badge/Email-Contact%20Me-FF69B4?logo=gmail&logoColor=white"/>
-  </a>
-</p>
+    a {
+      color: #c7aefc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Wings Animation" class="wings">
+    <h1>Eng. Reem Algethami</h1>
+    <p>AI Innovator 🧠 | Computer Vision Engineer 👁️ | Embedded Systems Creator ⚙️<br>"Where technology learns to dream."</p>
+  </header>
 
----
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a Computer Engineer who sees technology as a form of art — a way to express creativity through logic and innovation.  
+      My journey revolves around Artificial Intelligence, Machine Learning, and Computer Vision — building intelligent systems that not only think but inspire.  
+      I believe in merging science with imagination, crafting projects that redefine what's possible.
+    </p>
+  </section>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" width="90"/>  
-  <br><strong>“RA with Wings — Where Technology Takes Flight.”</strong>
-</p>
+  <section class="skills">
+    <h2>Skills & Technologies</h2>
+    <div class="skills">
+      <div class="skill">Python</div>
+      <div class="skill">TensorFlow</div>
+      <div class="skill">Keras</div>
+      <div class="skill">PyTorch</div>
+      <div class="skill">OpenCV</div>
+      <div class="skill">YOLOv8</div>
+      <div class="skill">GANs</div>
+      <div class="skill">DQN</div>
+      <div class="skill">Embedded Systems</div>
+      <div class="skill">Raspberry Pi</div>
+      <div class="skill">Pixhawk</div>
+      <div class="skill">Data Analysis</div>
+      <div class="skill">Power BI</div>
+      <div class="skill">Google Colab</div>
+      <div class="skill">VS Code</div>
+      <div class="skill">Git & GitHub</div>
+    </div>
+  </section>
 
+  <section class="vision">
+    <h2>Vision & Values</h2>
+    <div class="vision-grid">
+      <div class="vision-item">
+        <h3>🦋 Creativity</h3>
+        <p>Innovation begins with imagination — I turn abstract ideas into living systems that evolve with purpose.</p>
+      </div>
+      <div class="vision-item">
+        <h3>⚙️ Innovation</h3>
+        <p>Exploring the edge between logic and artistry — designing AI that learns, adapts, and grows.</p>
+      </div>
+      <div class="vision-item">
+        <h3>💫 Empathy</h3>
+        <p>Technology should feel human. I create intelligent solutions that understand, connect, and empower.</p>
+      </div>
+      <div class="vision-item">
+        <h3>🌟 Excellence</h3>
+        <p>Every project I build carries my signature: detail, elegance, and depth — a harmony of art and engineering.</p>
+      </div>
+    </div>
+  </section>
 
+  <footer>
+    <p>© 2025 Eng. Reem Algethami | <a href="https://www.linkedin.com/in/reem-algethami-245800316">LinkedIn</a> | <a href="https://github.com/EngReemAlgethami">GitHub</a></p>
+  </footer>
+</body>
+</html>
 
