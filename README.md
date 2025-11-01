@@ -4,7 +4,8 @@
 
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=AI+Engineer+|+Researcher+|+Creator+|+Dreamer" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=Innovating+Tomorrow+with+Code.+Empowering+Visions.+Shaping+Realities." alt="Typing SVG" />
+
 </p>
 
 ---
@@ -20,7 +21,6 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
 ---
 
 ## ⚙️ Skills & Technologies  
-
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" title="PyTorch"/>
@@ -34,14 +34,15 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55" title="Raspberry Pi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" title="C Language"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" title="C"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" title="Google Colab / Cloud"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" title="Google Colab/Cloud"/>
   <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" title="Hugging Face"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" title="Kaggle"/>
 </p>
+
 
 ---
 ## 📊 GitHub Stats
@@ -82,5 +83,3 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
 
 ---
 
-⭐ * Engineering the future through imagination and AI.*  
-💫 *Driven by curiosity, guided by purpose, and powered by creativity.*  
