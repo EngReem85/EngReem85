@@ -1,5 +1,5 @@
 <!-- Header -->
-<img align="right" src="tenor.gif" width="100"/>
+
 
 
 
