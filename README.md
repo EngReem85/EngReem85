@@ -39,7 +39,7 @@ In the future, I aspire to spread knowledge and passion for technology even furt
 
 ## ⚡ AI-Inspired Background  
 <p align="center">
-  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="700" alt="AI Circuit Animation"/>
+  <img src="https://media.tenor.com/U2pGpcvWcZ8AAAAC/coding-typing-pc-laptop.gif" width="700" alt="AI Circuit Animation"/>
 </p>
 
 ---
