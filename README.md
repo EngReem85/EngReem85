@@ -1,5 +1,5 @@
 <!-- Header -->
-<img align="right" src="https://media.giphy.com/media/j0HjChGV0J44KrrlGv/giphy.gif" width="250"/>
+<img align="right" src="https://media.giphy.com/media/iIqmM5tTjmpOB9mpbn/giphy.gif" width="250"/>
 
 # 🪽 Hi, I'm **Eng. Reem Algethami**  
 
@@ -12,7 +12,7 @@
 
 ## ✨ Favorite Quote
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=C7AEFC&center=true&vCenter=true&width=600&lines=“She+turns+data+into+dreams,+and+dreams+into+code.”;“Technology+becomes+art+when+it+understands+people.”;“RA+with+Wings+—+Where+Technology+Takes+Flight.”" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=E6B7A9&center=true&vCenter=true&width=600&lines=“She+turns+data+into+dreams,+and+dreams+into+code.”;“Technology+becomes+art+when+it+understands+people.”;“RA+with+Wings+—+Where+Technology+Takes+Flight.”" alt="Typing SVG" />
 </p>
 
 ---
@@ -51,18 +51,18 @@ Constantly exploring the intersection between **innovation and imagination**, I 
 
 ---
 
-## 💬 Let's Connect
+## 🌐 Connect with Me
 <p align="center">
   <a href="https://www.linkedin.com/in/reem-algethami-245800316" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="40" title="LinkedIn" />
+    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="30" title="LinkedIn" style="filter: invert(80%) sepia(50%) saturate(400%) hue-rotate(330deg) brightness(105%) contrast(95%);" />
   </a>
   &nbsp;&nbsp;
   <a href="https://github.com/EngReemAlgethami" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="40" title="GitHub" />
+    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="30" title="GitHub" style="filter: invert(80%) sepia(50%) saturate(400%) hue-rotate(330deg) brightness(105%) contrast(95%);" />
   </a>
   &nbsp;&nbsp;
   <a href="mailto:your-email@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="40" title="Email" />
+    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="30" title="Email" style="filter: invert(80%) sepia(50%) saturate(400%) hue-rotate(330deg) brightness(105%) contrast(95%);" />
   </a>
 </p>
 
