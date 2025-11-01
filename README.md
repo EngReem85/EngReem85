@@ -4,14 +4,14 @@
 
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=Eng.+Reem+Algetami." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=Eng.+Reem+Algethami." alt="Typing SVG" />
 
 </p>
 
 ---
 
 ##  About Me🪽  
-I’m **Eng. Reem Algethami**, a **Computer Engineer** passionate about **Artificial Intelligence, Computer Vision, and Robotics**.  
+I’m **Computer Engineer** passionate about **Artificial Intelligence, Computer Vision, and Robotics**.  
 My journey is fueled by curiosity, creativity, and a deep desire to merge **logic with imagination**.  
 I believe technology should **inspire, empower, and feel alive**  not just function.  
 Through every project, I aim to create AI that learns, adapts, and makes a difference.  
