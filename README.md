@@ -1,7 +1,7 @@
 <!-- Header -->
 <img align="right" src="https://media.tenor.com/U2pGpcvWcZ8AAAAC/coding-typing-pc-laptop.gif" width="250"/>
 
-# 🪽🪽 Hi, I'm **Eng. Reem Algethami**
+#**Eng. Reem Algethami**🪽
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Engineer+by+Logic,+Creator+by+Heart.;AI+Innovator+with+Wings+of+Imagination.;Empowering+Technology+through+Creativity." alt="Typing SVG" />
@@ -9,7 +9,7 @@
 
 ---
 
-## 🩵 About Me  
+##  About Me🪽  
 I’m a **Computer Engineer** passionate about **Artificial Intelligence, Computer Vision, and Robotics**.  
 I love developing myself through new experiences, self-learning, and working on software projects that deepen my understanding of AI.  
 My goal is to be an active and influential member of society — leaving a meaningful mark in the field of artificial intelligence, and inspiring future generations.  
@@ -18,7 +18,7 @@ In the future, I aspire to spread knowledge and passion for technology even furt
 
 ---
 
-## 🛠️ Skills & Technologies  
+##  Skills & Technologies  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" height="55"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" height="55"/>
