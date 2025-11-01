@@ -37,11 +37,9 @@ In the future, I aspire to spread knowledge and passion for technology even furt
 
 ---
 
-## 📈 My GitHub Activity  
-![Reem's Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=EngReem85&bg_color=0d1117&color=39d353&line=39d353&point=39d353&area=true&hide_border=true)
-
+## ⚡ AI-Inspired Background  
 <p align="center">
-  <img src="https://media.tenor.com/9tNhwGoXq9wAAAAj/purple-butterfly.gif" width="60" alt="butterfly flying"/>
+  <img src="https://media.giphy.com/media/aNqEFrYVnsS52/giphy.gif" width="700" alt="AI Circuit Animation"/>
 </p>
 
 ---
@@ -64,4 +62,3 @@ In the future, I aspire to spread knowledge and passion for technology even furt
 ---
 
 ⭐ *“RA with Wings — Creating a future where innovation meets imagination.”*
-
