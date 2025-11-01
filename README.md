@@ -1,5 +1,5 @@
 <!-- Header -->
-<img align="right" src="[https://media.tenor.com/bCNex.gif](https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707)" width="250"/>
+<img align="right" src="https://tenor.com/view/coding-typing-pc-laptop-power-gif-21599707" width="250"/>
 
 # 🪽 Hi, I'm **Eng. Reem Algethami**  
 
@@ -8,12 +8,6 @@
 ⚙️ Experienced in **Embedded Systems & Data Analysis**  
 🎨 I blend creativity and precision to craft AI systems that feel alive.  
 
----
-
-## ✨ Favorite Quote
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1200&color=E7B2A5&center=true&vCenter=true&width=650&lines=“She+turns+data+into+dreams,+and+dreams+into+code.”;“Technology+becomes+art+when+it+understands+people.”;“RA+with+Wings+—+Where+Technology+Takes+Flight.”" alt="Typing SVG" />
-</p>
 
 ---
 
