@@ -1,7 +1,7 @@
 <!-- Header -->
 <img align="right" src="https://media.tenor.com/U2pGpcvWcZ8AAAAd/coding-typing-pc-laptop-power.gif" width="250"/>
 
-# 🪽🪽 Hi, I'm **Eng. Reem Algethami**  
+#  Hi, I'm **Eng. Reem Algethami**🪽
 
 💻 **Computer Engineer | AI Innovator | Visionary Creator**  
 🧠 Specialized in **Artificial Intelligence, Machine Learning, Deep Learning, and Computer Vision**  
