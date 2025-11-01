@@ -1,0 +1,202 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Eng. Reem Algethami | RA with Wings</title>
+  <style>
+    body {
+      margin: 0;
+      font-family: 'Poppins', sans-serif;
+      background-color: #0e0e10;
+      color: #fff;
+      overflow-x: hidden;
+    }
+
+    header {
+      text-align: center;
+      padding: 100px 20px;
+      position: relative;
+    }
+
+    header h1 {
+      font-size: 2.8rem;
+      font-weight: 700;
+      color: #c7aefc;
+    }
+
+    header p {
+      font-size: 1.2rem;
+      color: #dcdcdc;
+      margin-top: 10px;
+    }
+
+    .wings {
+      position: absolute;
+      top: 10%;
+      left: 50%;
+      transform: translateX(-50%);
+      width: 200px;
+      opacity: 0.2;
+      animation: flutter 5s ease-in-out infinite;
+    }
+
+    @keyframes flutter {
+      0%, 100% { transform: translateX(-50%) rotate(0deg); }
+      50% { transform: translateX(-50%) rotate(4deg); }
+    }
+
+    section {
+      padding: 80px 10%;
+      text-align: center;
+    }
+
+    section h2 {
+      color: #c7aefc;
+      font-size: 2rem;
+      margin-bottom: 20px;
+    }
+
+    .about p {
+      font-size: 1.1rem;
+      line-height: 1.8;
+      color: #d8d8d8;
+      max-width: 800px;
+      margin: 0 auto;
+    }
+
+    .skills {
+      display: flex;
+      flex-wrap: wrap;
+      justify-content: center;
+      gap: 15px;
+      margin-top: 40px;
+    }
+
+    .skill {
+      background: #1e1e22;
+      padding: 12px 25px;
+      border-radius: 25px;
+      border: 1px solid #c7aefc;
+      color: #c7aefc;
+      font-size: 0.95rem;
+      transition: all 0.3s ease;
+    }
+
+    .skill:hover {
+      background: #c7aefc;
+      color: #0e0e10;
+    }
+
+    .vision {
+      background: #151518;
+      padding: 80px 10%;
+    }
+
+    .vision-grid {
+      display: grid;
+      grid-template-columns: repeat(auto-fit, minmax(180px, 1fr));
+      gap: 30px;
+      margin-top: 40px;
+    }
+
+    .vision-item {
+      background: #1d1d22;
+      padding: 30px;
+      border-radius: 15px;
+      border: 1px solid #c7aefc44;
+      transition: transform 0.3s ease;
+    }
+
+    .vision-item:hover {
+      transform: translateY(-8px);
+      border-color: #c7aefc;
+    }
+
+    .vision-item h3 {
+      color: #c7aefc;
+      margin-bottom: 10px;
+    }
+
+    footer {
+      text-align: center;
+      padding: 40px;
+      font-size: 0.9rem;
+      color: #aaa;
+      border-top: 1px solid #222;
+    }
+
+    a {
+      color: #c7aefc;
+      text-decoration: none;
+    }
+    a:hover {
+      text-decoration: underline;
+    }
+  </style>
+</head>
+<body>
+  <header>
+    <img src="https://media.giphy.com/media/26tPplGWjN0xLybiU/giphy.gif" alt="Wings Animation" class="wings">
+    <h1>Eng. Reem Algethami</h1>
+    <p>AI Innovator 🧠 | Computer Vision Engineer 👁️ | Embedded Systems Creator ⚙️<br>"Where technology learns to dream."</p>
+  </header>
+
+  <section class="about">
+    <h2>About Me</h2>
+    <p>
+      I'm a Computer Engineer who sees technology as a form of art — a way to express creativity through logic and innovation.  
+      My journey revolves around Artificial Intelligence, Machine Learning, and Computer Vision — building intelligent systems that not only think but inspire.  
+      I believe in merging science with imagination, crafting projects that redefine what's possible.
+    </p>
+  </section>
+
+  <section class="skills">
+    <h2>Skills & Technologies</h2>
+    <div class="skills">
+      <div class="skill">Python</div>
+      <div class="skill">TensorFlow</div>
+      <div class="skill">Keras</div>
+      <div class="skill">PyTorch</div>
+      <div class="skill">OpenCV</div>
+      <div class="skill">YOLOv8</div>
+      <div class="skill">GANs</div>
+      <div class="skill">DQN</div>
+      <div class="skill">Embedded Systems</div>
+      <div class="skill">Raspberry Pi</div>
+      <div class="skill">Pixhawk</div>
+      <div class="skill">Data Analysis</div>
+      <div class="skill">Power BI</div>
+      <div class="skill">Google Colab</div>
+      <div class="skill">VS Code</div>
+      <div class="skill">Git & GitHub</div>
+    </div>
+  </section>
+
+  <section class="vision">
+    <h2>Vision & Values</h2>
+    <div class="vision-grid">
+      <div class="vision-item">
+        <h3>🦋 Creativity</h3>
+        <p>Innovation begins with imagination — I turn abstract ideas into living systems that evolve with purpose.</p>
+      </div>
+      <div class="vision-item">
+        <h3>⚙️ Innovation</h3>
+        <p>Exploring the edge between logic and artistry — designing AI that learns, adapts, and grows.</p>
+      </div>
+      <div class="vision-item">
+        <h3>💫 Empathy</h3>
+        <p>Technology should feel human. I create intelligent solutions that understand, connect, and empower.</p>
+      </div>
+      <div class="vision-item">
+        <h3>🌟 Excellence</h3>
+        <p>Every project I build carries my signature: detail, elegance, and depth — a harmony of art and engineering.</p>
+      </div>
+    </div>
+  </section>
+
+  <footer>
+    <p>© 2025 Eng. Reem Algethami | <a href="https://www.linkedin.com/in/reem-algethami-245800316">LinkedIn</a> | <a href="https://github.com/EngReemAlgethami">GitHub</a></p>
+  </footer>
+</body>
+</html>
