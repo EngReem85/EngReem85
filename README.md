@@ -4,24 +4,23 @@
 # **Eng. Reem Algethami**
 
 <p align="left">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=Engineer+by+Logic,+Dreamer+by+Heart.;Turning+AI+Ideas+into+Reality.;Building+Smart+Systems+that+Inspire.;Innovation+with+Purpose+and+Soul." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=AI+Engineer+|+Researcher+|+Creator+|+Dreamer" alt="Typing SVG" />
 </p>
 
 ---
 
 ## 🪽 About Me  
 I’m **Eng. Reem Algethami**, a **Computer Engineer** passionate about **Artificial Intelligence, Computer Vision, and Robotics**.  
-My journey is driven by curiosity, creativity, and the desire to merge **logic with imagination**.  
-I believe technology should **inspire, empower, and feel alive**.  
-Through every challenge, I aim to create AI that serves humanity and leaves a lasting mark.  
+My journey is fueled by curiosity, creativity, and a deep desire to merge **logic with imagination**.  
+I believe technology should **inspire, empower, and feel alive** — not just function.  
+Through every project, I aim to create AI that learns, adapts, and makes a difference.  
 
-✨ *My mission: to build intelligent systems that think, feel, and inspire.*  
+✨ *My mission: to engineer intelligent systems that connect technology with purpose.*  
 
 ---
 
 ## ⚙️ Skills & Technologies  
 
-### 🤖 Artificial Intelligence & Machine Learning  
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" title="PyTorch"/>
@@ -30,27 +29,12 @@ Through every challenge, I aim to create AI that serves humanity and leaves a la
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" title="Scikit-Learn"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="Pandas"/>
-</p>
-
-### 🧠 Computer Vision & Deep Learning  
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" title="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" title="Jupyter Notebook"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="55" title="Matplotlib"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/seaborn/seaborn-original.svg" width="55" title="Seaborn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cuda/cuda-original.svg" width="55" title="CUDA Optimization"/>
-</p>
-
-### ⚡ Embedded Systems & Robotics  
-<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" title="Jupyter"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" title="Arduino"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55" title="Raspberry Pi"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" title="C Language"/>
-</p>
-
-### 🧩 Tools & Platforms  
-<p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
@@ -65,8 +49,8 @@ Through every challenge, I aim to create AI that serves humanity and leaves a la
 - 🚀 **OreScout Drone** – AI-powered self-learning drone using DQN + GANs for metal detection in desert environments.  
 - 🧩 **DFU Analyzer** – Deep Learning model for diabetic foot ulcer segmentation and risk assessment.  
 - 🌞 **EL-Inspect** – Computer Vision system for solar panel defect inspection using YOLOv8 + segmentation.  
-- 🦿 **Gait Insight** – Video analysis for neuropathy and Charcot foot detection.  
-- 💡 Advocate for **Women in AI & STEM**, mentoring and empowering future innovators.  
+- 🦿 **Gait Insight** – Real-time video analysis for diabetic neuropathy and Charcot foot detection.  
+- 💡 Advocate for **Women in AI & STEM**, mentoring and inspiring future innovators.  
 
 ---
 
