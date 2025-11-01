@@ -1,9 +1,9 @@
 <!-- Header -->
-<img align="right" src="tenor.gif" width="250"/>
+<img align="right" src="tenor.gif" width="500"/>
 
-# **Eng. Reem Algethami**
+# ***Eng. Reem Algethami***
 
-<p align="center">
+<p align="right">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Engineer+by+Logic,+Creator+by+Heart.;AI+Innovator+with+Wings+of+Imagination.;Empowering+Technology+through+Creativity." alt="Typing SVG" />
 </p>
 
