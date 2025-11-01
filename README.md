@@ -12,7 +12,7 @@
 ##  About Me🪽  
 I’m a **Computer Engineer** passionate about **Artificial Intelligence, Computer Vision, and Robotics**.  
 I love developing myself through new experiences, self-learning, and working on software projects that deepen my understanding of AI.  
-My goal is to be an active and influential member of society — leaving a meaningful mark in the field of artificial intelligence, and inspiring future generations.  
+My goal is to be an active and influential member of society leaving a meaningful mark in the field of artificial intelligence, and inspiring future generations.  
 I enjoy helping others by sharing my knowledge and the challenges I’ve faced along the way.  
 In the future, I aspire to spread knowledge and passion for technology even further, both academically and through technical training.  
 
