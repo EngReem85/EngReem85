@@ -1,5 +1,5 @@
 <!-- Header -->
-<img align="right" src="[https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhdXZpajl5d3U0YThwa2w3ZjZqZ/giphy.gif](https://tenor.com/bCNex.gif)" width="250"/>
+<img align="right" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExN2JhdXZpajl5d3U0YThwa2w3ZjZqZ/giphy.gif" width="250"/>
 
 #  Hi, I'm **Eng. Reem Algethami**  
 
@@ -49,29 +49,21 @@ Constantly exploring the intersection between **innovation and imagination**, I 
 
 ---
 
-## 📊 GitHub Insights
-<p align="center" style="background-color:#f8e1d4; border-radius:10px; padding:15px;">
-  <img src="https://github-readme-stats.vercel.app/api?username=EngReem85&show_icons=true&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngReem85&layout=compact&theme=rose_pine&bg_color=f8e1d4&title_color=b66e5d&text_color=5a3c3c&icon_color=c47b68" height="160" />
-</p>
+## 📊 GitHub Stats
+![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
 
 ---
 
-## 🌐 Connect with Me
-<p align="center">
-  <a href="https://www.linkedin.com/in/reem-algethami-245800316" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="26" title="LinkedIn" style="filter: sepia(90%) hue-rotate(325deg) saturate(400%) brightness(105%);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/EngReemAlgethami" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="26" title="GitHub" style="filter: sepia(90%) hue-rotate(325deg) saturate(400%) brightness(105%);" />
-  </a>
-  &nbsp;&nbsp;
-  <a href="mailto:your-email@example.com">
-    <img src="https://cdn-icons-png.flaticon.com/512/732/732200.png" width="26" title="Email" style="filter: sepia(90%) hue-rotate(325deg) saturate(400%) brightness(105%);" />
-  </a>
-</p>
+## 🎯 Current Focus / Goals
+- Deepening expertise in AI, Machine Learning, Deep Learning, and Computer Vision  
+- Exploring Embedded Systems applications and IoT projects  
+- Enhancing data analysis skills and technical training capabilities  
 
 ---
 
+## 📫 Connect with Me
+- LinkedIn: [Reem Algethami](https://www.linkedin.com/in/reem-algethami-245800316)  
+- GitHub: [USERNAME](https://github.com/USERNAME)  
+- Email: your-email@example.com  
 ⭐ *“RA with Wings — Where Technology Takes Flight.”*
