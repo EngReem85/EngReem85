@@ -1,7 +1,7 @@
 <!-- Header -->
 <img align="right" src="tenor.gif" width="100"/>
 
-# **Eng. Reem Algethami**
+
 
 <p align="left">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=AI+Engineer+|+Researcher+|+Creator+|+Dreamer" alt="Typing SVG" />
@@ -72,5 +72,5 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
 
 ---
 
-⭐ *“RA with Wings — Engineering the future through imagination and AI.”*  
+⭐ * Engineering the future through imagination and AI.*  
 💫 *Driven by curiosity, guided by purpose, and powered by creativity.*  
