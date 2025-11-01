@@ -1,7 +1,7 @@
 <!-- Header -->
 <img align="right" src="https://media.tenor.com/U2pGpcvWcZ8AAAAC/coding-typing-pc-laptop.gif" width="250"/>
 
-#**Eng. Reem Algethami**🪽
+# **Eng. Reem Algethami**
 
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&pause=1000&color=39D353&center=true&vCenter=true&width=600&lines=Engineer+by+Logic,+Creator+by+Heart.;AI+Innovator+with+Wings+of+Imagination.;Empowering+Technology+through+Creativity." alt="Typing SVG" />
