@@ -64,10 +64,7 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  <a href="https://github.com/EngReemAlgethami" target="_blank">
-    <img src="https://cdn-icons-png.flaticon.com/512/733/733553.png" width="28" title="GitHub" />
-  </a>
-  &nbsp;&nbsp;
+  
   <a href="https://huggingface.co/EngReemAlgethami" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="28" title="Hugging Face" />
   </a>
