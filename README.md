@@ -18,43 +18,63 @@ Alongside engineering, I train — I've delivered AI and Robotics workshops to 3
 
 ## 🚀 Featured Projects
 
-- **OreScout** — Autonomous drone with hybrid DQN + ultrasonic obstacle avoidance for mineral detection | `ROS` `DQN` `AirSim` `Real-ESRGAN`
-- **HealthyFeet** — AI system for diabetic foot ulcer & gait analysis | 🏆 2nd Place, Betathon Hackathon 2026 | `Computer Vision` `Deep Learning`
-- **BaseAgent** — Production-oriented ReAct Agent framework with RAG pipelines and tool calling | `LangChain` `RAG` `Langfuse`
-- **CPU Advisor** — End-to-end ML pricing model, R² = 0.9573 | `XGBoost` `Gradio` `Power BI`
+| Project | Description | Stack |
+|---|---|---|
+| 🚁 **[OreScout](#)** | Autonomous drone — hybrid DQN + ultrasonic obstacle avoidance for mineral detection. Presented at SADEX 2025. | `ROS` `DQN` `AirSim` `Real-ESRGAN` |
+| 🦶 **[HealthyFeet](#)** | AI system for diabetic foot ulcer & gait analysis. 🏆 2nd Place, Betathon Hackathon 2026. | `Computer Vision` `Deep Learning` `OpenCV` |
+| 🤖 **[BaseAgent](https://github.com/EngReem85/SDAIA-Building-Gen-AI-Apps)** | Production-oriented ReAct Agent with RAG pipelines, tool calling & loop detection. | `LangChain` `RAG` `Langfuse` |
+| 💻 **[CPU Advisor](https://github.com/EngReem85/CPU-Advisor-Predictor)** | End-to-end ML pricing model — R² = 0.9573. Deployed live on Hugging Face. | `XGBoost` `Gradio` `Power BI` |
+
+> Replace `#` with your repo links once published.
 
 ---
 
 ## ⚙️ Skills & Technologies
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" title="PyTorch"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="55" title="TensorFlow"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="55" title="Keras"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="55" title="Scikit-Learn"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="55" title="NumPy"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="55" title="Pandas"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="55" title="OpenCV"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="55" title="Jupyter"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="55" title="Arduino"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="55" title="Raspberry Pi"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="55" title="C++"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="55" title="C"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="55" title="Git"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="55" title="GitHub"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="55" title="VS Code"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/googlecloud/googlecloud-original.svg" width="55" title="Google Colab/Cloud"/>
-  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="55" title="Hugging Face"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" title="Kaggle"/>
+**Core Languages**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="45" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="45" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="45" title="C"/>
+</p>
+
+**AI / Machine Learning**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="45" title="PyTorch"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" width="45" title="TensorFlow"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/scikitlearn/scikitlearn-original.svg" width="45" title="Scikit-Learn"/>
+  <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="45" title="Hugging Face"/>
+</p>
+
+**Computer Vision**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="45" title="OpenCV"/>
+</p>
+
+**Robotics & Embedded Systems**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/raspberrypi/raspberrypi-original.svg" width="45" title="Raspberry Pi"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="45" title="Arduino"/>
+</p>
+
+**Data & Tools**
+<p align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="45" title="Pandas"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="45" title="NumPy"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="45" title="Jupyter"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" width="45" title="Git"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="45" title="GitHub"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="45" title="VS Code"/>
 </p>
 
 ---
 
 ## 📊 GitHub Stats
 
-![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngReem85&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngReem85&layout=compact&theme=tokyonight)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=EngReem85&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=EngReem85&layout=compact&theme=tokyonight" width="38%" />
+</p>
 
 ---
 
@@ -62,7 +82,7 @@ Alongside engineering, I train — I've delivered AI and Robotics workshops to 3
 
 - Advancing autonomous robotics and embedded AI systems
 - Building production-grade AI agents (ReAct, RAG, tool-calling)
-- Growing as a technical trainer in AI and emerging technologies
+- Seeking opportunities in AI engineering, robotics, and autonomous systems
 
 ---
 
