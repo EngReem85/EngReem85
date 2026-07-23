@@ -1,26 +1,32 @@
 <!-- Header -->
 
-
-
-
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=28&pause=1000&color=AC7C63&center=true&vCenter=true&width=750&lines=Eng.+Reem+Algethami." alt="Typing SVG" />
-
 </p>
 
 ---
 
-##  About Me🪽  
-I’m **Computer Engineer** passionate about **Artificial Intelligence, Computer Vision, and Robotics**.  
-My journey is fueled by curiosity, creativity, and a deep desire to merge **logic with imagination**.  
-I believe technology should **inspire, empower, and feel alive**  not just function.  
-Through every project, I aim to create AI that learns, adapts, and makes a difference.  
+## About Me 🪽
 
+I'm a **Computer Engineer** specializing in **AI, Robotics, and Autonomous Systems**.
 
+I build systems that make real-time decisions — from a hybrid DQN + sensor-fusion drone that avoids obstacles mid-flight, to a ReAct AI agent with RAG pipelines, to a healthcare AI that detects diabetic complications early (🏆 2nd Place, Betathon 2026).
+
+Alongside engineering, I train — I've delivered AI and Robotics workshops to 3,500+ participants, because I believe knowledge only matters when it's shared.
 
 ---
 
-## ⚙️ Skills & Technologies  
+## 🚀 Featured Projects
+
+- **OreScout** — Autonomous drone with hybrid DQN + ultrasonic obstacle avoidance for mineral detection | `ROS` `DQN` `AirSim` `Real-ESRGAN`
+- **HealthyFeet** — AI system for diabetic foot ulcer & gait analysis | 🏆 2nd Place, Betathon Hackathon 2026 | `Computer Vision` `Deep Learning`
+- **BaseAgent** — Production-oriented ReAct Agent framework with RAG pipelines and tool calling | `LangChain` `RAG` `Langfuse`
+- **CPU Advisor** — End-to-end ML pricing model, R² = 0.9573 | `XGBoost` `Gradio` `Power BI`
+
+---
+
+## ⚙️ Skills & Technologies
+
 <p align="center">
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="55" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pytorch/pytorch-original.svg" width="55" title="PyTorch"/>
@@ -43,28 +49,30 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kaggle/kaggle-original.svg" width="55" title="Kaggle"/>
 </p>
 
-
 ---
+
 ## 📊 GitHub Stats
-![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngReem85&show_icons=true&theme=tokyonight)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngReem85&layout=compact&theme=tokyonight)  
+
+![Reem's GitHub stats](https://github-readme-stats.vercel.app/api?username=EngReem85&show_icons=true&theme=tokyonight)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=EngReem85&layout=compact&theme=tokyonight)
 
 ---
 
-## 🎯 Current Focus / Goals
-- Deepening expertise in AI, Machine Learning, Deep Learning, and Computer Vision  
-- Exploring Embedded Systems applications and IoT projects  
-- Enhancing data analysis skills and technical training capabilities  
+## 🎯 Current Focus
 
+- Advancing autonomous robotics and embedded AI systems
+- Building production-grade AI agents (ReAct, RAG, tool-calling)
+- Growing as a technical trainer in AI and emerging technologies
 
+---
 
-## 🌐 Connect with Me  
+## 🌐 Connect with Me
+
 <p align="center">
   <a href="https://www.linkedin.com/in/reem-algethami-245800316" target="_blank">
     <img src="https://cdn-icons-png.flaticon.com/512/174/174857.png" width="28" title="LinkedIn" />
   </a>
   &nbsp;&nbsp;
-  
   <a href="https://huggingface.co/EngReemAlgethami" target="_blank">
     <img src="https://huggingface.co/front/assets/huggingface_logo-noborder.svg" width="28" title="Hugging Face" />
   </a>
@@ -79,4 +87,3 @@ Through every project, I aim to create AI that learns, adapts, and makes a diffe
 </p>
 
 ---
-
