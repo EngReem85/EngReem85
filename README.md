@@ -24,7 +24,7 @@ Alongside engineering, I train  I've delivered AI and Robotics workshops to **4,
 **[HealthyFeet](#)** — AI system for diabetic foot ulcer & gait analysis, built for early detection of diabetic complications. 🏆 2nd Place, Betathon Hackathon 2026.
 `Computer Vision` `Deep Learning` `OpenCV`
 
-**[BaseAgent](https://github.com/EngReem85/SDAIA-Building-Gen-AI-Apps)** — A ReAct AI agent with RAG pipelines, tool calling, and loop detection, built for reliable behavior in production.
+**[BaseAgent](https://github.com/EngReem85/BaseAgent)** — A ReAct AI agent with RAG pipelines, tool calling, and loop detection, built for reliable behavior in production.
 `LangChain` `RAG` `Langfuse`
 
 **[CPU Advisor](https://github.com/EngReem85/CPU-Advisor-Predictor)** — End-to-end ML pricing model (R² = 0.9573), deployed as a live web app.
