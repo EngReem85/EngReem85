@@ -3,16 +3,16 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/reem-algethami-245800316" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white" /></a>
-  <a href="https://huggingface.co/EngReemAlgethami" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" /></a>
-  <a href="https://www.kaggle.com/engreemalgethami" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
-  <a href="mailto:EngReemAlgethami@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
+  <a href="https://huggingface.co/EngReem85" target="_blank"><img src="https://img.shields.io/badge/Hugging%20Face-FFD21E?style=flat&logo=huggingface&logoColor=black" /></a>
+  <a href="https://www.kaggle.com/reem85" target="_blank"><img src="https://img.shields.io/badge/Kaggle-20BEFF?style=flat&logo=kaggle&logoColor=white" /></a>
+  <a href="mailto:reem525979@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=flat&logo=gmail&logoColor=white" /></a>
 </p>
 
 <br>
 
-I'm a Computer Engineer specializing in **AI, Robotics, and Autonomous Systems**. I build systems that combine machine learning with real-world hardware — from a drone that decides in milliseconds whether to trust its AI model or its sensors, to an AI agent designed to reason and act reliably.
+I'm a Computer Engineer specializing in **AI, Robotics, and Autonomous Systems**. I build systems that combine machine learning with real-world hardware from a drone that decides in milliseconds whether to trust its AI model or its sensors, to an AI agent designed to reason and act reliably.
 
-Alongside engineering, I train — I've delivered AI and Robotics workshops to **3,500+ participants**, because knowledge only matters when it's shared.
+Alongside engineering, I train  I've delivered AI and Robotics workshops to **4,000+ participants**, because knowledge only matters when it's shared.
 
 <br>
 
@@ -68,4 +68,4 @@ Alongside engineering, I train — I've delivered AI and Robotics workshops to *
 
 <br>
 
-<p align="center"><sub>📍 Saudi Arabia · EngReemAlgethami@gmail.com</sub></p>
+<p align="center"><sub>📍 Saudi Arabia · reem525979@gmail.com</sub></p>
